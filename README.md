@@ -1,0 +1,1 @@
+A simple Covid Tracker website based on ReactJS.
