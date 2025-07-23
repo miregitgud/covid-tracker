@@ -17,7 +17,6 @@
   },
   "scripts": {
     "initgit": "git init && git add . && git commit -m 'Initial Commit'",
-    "postinstall": "npm test -- --watchAll=false && npm run initgit",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
